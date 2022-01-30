@@ -1,16 +1,22 @@
 # Financial Analytics - Investment Analysis
+____
+
 
 The program evaluates four new investment options for inclusion in the client portfolios. The program determines the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
 
-Packages Used
+## Packages Used
 This project leverages python 3.7
 
-Installation Guide
+## Installation Guide
 The application requires the below programs to be installed
 
-*python *pandas *pathjlib *matplotlib *numpy
+* python
+* pandas 
+* pathjlib 
+* matplotlib 
+* numpy
 
-Project functionality and Examples of Usage:
+## Project functionality and Examples of Usage:
 The project begins with importing the performance of four major fund managers in csv fomat.  
 
 The program consist of 3 phases:
@@ -40,18 +46,7 @@ The program consist of 3 phases:
 
 
 
-Contributors
-Brought to you by Ram Atmakuri (ram.atmakuri@outlook.com) License [MIT] (https://choosealicense.com/licenses/mit/)
+## Contributors
+Brought to you by Ram Atmakuri (ram.atmakuri@outlook.com) 
 
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+## License [MIT] (https://choosealicense.com/licenses/mit/)
